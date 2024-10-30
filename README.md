@@ -44,3 +44,7 @@ CommentAnalyzer can be utilized in various applications, including:
 ## Conclusion
 
 By providing tools for sentiment analysis, question detection, and effective text preprocessing, CommentAnalyzer aims to empower users with the insights needed to foster meaningful connections and improve engagement on social media.
+
+## Dataset Link
+
+You can access the dataset used for this project at the following link: [Persian Comment Dataset on Instagram](https://www.kaggle.com/datasets/alibehdarnejad/persian-comment-in-the-instagram).
