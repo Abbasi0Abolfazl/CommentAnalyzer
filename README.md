@@ -41,6 +41,12 @@ CommentAnalyzer can be utilized in various applications, including:
 - Informing marketing strategies through sentiment analysis of user comments.
 - Conducting research on user behavior and sentiment trends on social media.
 
+## Google Colab
+
+You can easily run the CommentAnalyzer project in Google Colab. Click the button below to open the notebook:
+
+<a href="https://colab.research.google.com/github/Abbasi0Abolfazl/CommentAnalyzer/blob/main/persian_instagram_comments.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ## Conclusion
 
 By providing tools for sentiment analysis, question detection, and effective text preprocessing, CommentAnalyzer aims to empower users with the insights needed to foster meaningful connections and improve engagement on social media.
