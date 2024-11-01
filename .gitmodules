@@ -1,0 +1,3 @@
+[submodule "Persian-stopwords-collection"]
+	path = Persian-stopwords-collection
+	url = https://github.com/ziaa/Persian-stopwords-collection
